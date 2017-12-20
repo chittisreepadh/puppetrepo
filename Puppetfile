@@ -1,0 +1,4 @@
+mod 'puppetlabs-tomcat', '2.1.0'
+mod 'puppetlabs-stdlib', '4.24.0'
+mod 'puppetlabs-concat', '4.1.1'
+mod 'puppet-archive', '2.2.0'
